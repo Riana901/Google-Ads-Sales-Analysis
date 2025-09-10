@@ -2,6 +2,8 @@
 Campaign performance analysis from "Data Analytics Course" campaign in 2024 with google ads
 Data Originally from Kaggle [here](https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset/data).
 
+<img width="1683" height="843" alt="image" src="https://github.com/user-attachments/assets/e3029981-db37-447a-a17c-ac7a588bf7c5" />
+
 # BUSSINESS QUESTION
 - Which keywords or Device are profitable?
 
@@ -60,4 +62,4 @@ The declines in Month 3 and Month 12 may indicate suboptimal campaign strategies
     ROI fluctuates — track monthly performance and adjust campaigns quarterly.
 
 # TECHNICAL PROJECT INFORMATION
-This simple project dataset original is available at Kaggle dataset.  Dataset contains advertising data from a simulated Google Ads campaign promoting data analytics courses and services. 
+This simple project dataset original is available at Kaggle dataset.  Dataset contains advertising data from a simulated Google Ads campaign promoting data analytics courses and services. Link Visulization on [Tableu](https://public.tableau.com/views/GoogleAdsPerformanceAnalysisViz/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
